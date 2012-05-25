@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ScanamailActivity!</string>
+    <string name="app_name">Scanamail</string>
+    <string name="Email">EmailID:</string>
+    <string name="MaxScans">Max Scans:</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Start">Start</string>
+    <string name="Settings">Settings</string>
+    <string name="Close">Close</string>
+</resources>
