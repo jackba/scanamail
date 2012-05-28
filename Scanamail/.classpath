@@ -5,6 +5,6 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry kind="lib" path="lib/javase.jar"/>
-	<classpathentry kind="lib" path="C:/Users/vbanda/Desktop/zxing-2.0/core/core.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
